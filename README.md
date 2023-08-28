@@ -1,4 +1,4 @@
-# Cardio Good Fitness
+# Treadmill Customer Preference Insights for Cardio Good Fitness
 
 ## Background
 
@@ -6,7 +6,8 @@ Cardio Good Fitness is a retail store that among many products, sells treadmills
 
 The company has provided us with customer data on its treadmill products. We will use this data to build a customer profile for every treadmill product, and provide insights and recommendations on these that will help the company target new customers.
 
-![](https://i.imgur.com/ZqhcGDu.jpg)
+![](https://i.imgur.com/gEXanm1.jpg)
+AI generated image
 
 ## Data Dictionary
 
