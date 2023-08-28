@@ -1,5 +1,7 @@
 # Treadmill Customer Preference Insights for Cardio Good Fitness
 
+Oct 12 2022 | Hugo Hiraoka | hhiraokawatts@gmail.com
+
 ## Background
 
 Cardio Good Fitness is a retail store that among many products, sells treadmills. 
