@@ -1,6 +1,6 @@
 # Treadmill Customer Preference Insights for Cardio Good Fitness
 
-Oct 12 2022 | Hugo Hiraoka | hhiraokawatts@gmail.com
+Oct 12 2022 | Hugo Hiraoka | hhiraoka.w@gmail.com
 
 ## Background
 
