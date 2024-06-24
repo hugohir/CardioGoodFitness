@@ -1,0 +1,1 @@
+[Render htmlversion : Product Classification by Customer Type](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Product_Classification_by_Customer_Type/blob/main/html/Product_Classification.html)
